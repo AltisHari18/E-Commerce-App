@@ -148,9 +148,9 @@ POST /api/orders
 ## Login Page
 
 Add screenshot here.
-
-```md
 ![Cart](images/login.png)
+```md
+
 ```
 
 ---
@@ -158,9 +158,9 @@ Add screenshot here.
 ## Home Page
 
 Add screenshot here.
-
-```md
 ![Home](images/products.png)
+```md
+
 ```
 
 ---
@@ -168,18 +168,18 @@ Add screenshot here.
 ## Cart Page
 
 Add screenshot here.
-
-```md
 ![Cart](images/cart.png)
+```md
+
 ```
 
 ---
 ## Checkout Page
 
 Add screenshot here.
-
-```md
 ![Cart](images/checkout.png)
+```md
+
 ```
 
 --- 
@@ -187,9 +187,9 @@ Add screenshot here.
 ## Orders Page
 
 Add screenshot here.
-
-```md
 ![Orders](images/orders.png)
+```md
+
 ```
 
 ---
